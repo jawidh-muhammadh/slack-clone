@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className=" w-full flex  justify-center">
       {/* // WEB VIEW BELOW  */}
-      <section className=" max-w-6xl mx-4 lg:flex hidden pt-3  w-full">
+      <section className=" max-w-7xl mx-4 lg:flex hidden pt-3  w-full">
         <nav className=" flex w-full items-center justify-between ">
           {/* LEFT side of the navbar */}
           <div>
@@ -86,7 +86,7 @@ const Header = () => {
               <div>
                 <button className=" rounded-sm py-2 px-4 bg-white  border text-[#541554] font-semibold border-white ">
                   {" "}
-                  Talk To Sales{" "}
+                  Try For Free{" "}
                 </button>{" "}
               </div>
               {/* talk for free  */}
